@@ -6,6 +6,7 @@ namespace Login
 {
     public partial class LoginF1 : Form
     {
+        
         public LoginF1()
         {
             InitializeComponent();
@@ -17,7 +18,7 @@ namespace Login
             string password = textBox2.Text;
 
             // Simulate a login process (replace with actual authentication logic)
-            if (username == "admin" && password == "password")
+            if (username == "Mattia" && password == "MPASSCODE")
             {
                 MessageBox.Show("Login successful!");
                 // Proceed to the next form or main application
