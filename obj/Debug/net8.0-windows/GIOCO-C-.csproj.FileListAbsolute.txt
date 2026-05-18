@@ -1,0 +1,15 @@
+C:\Users\lucad\Documents\GitHub\Gioco-C-\bin\Debug\net8.0-windows\GIOCO-C-.exe
+C:\Users\lucad\Documents\GitHub\Gioco-C-\bin\Debug\net8.0-windows\GIOCO-C-.deps.json
+C:\Users\lucad\Documents\GitHub\Gioco-C-\bin\Debug\net8.0-windows\GIOCO-C-.runtimeconfig.json
+C:\Users\lucad\Documents\GitHub\Gioco-C-\bin\Debug\net8.0-windows\GIOCO-C-.dll
+C:\Users\lucad\Documents\GitHub\Gioco-C-\bin\Debug\net8.0-windows\GIOCO-C-.pdb
+C:\Users\lucad\Documents\GitHub\Gioco-C-\obj\Debug\net8.0-windows\GIOCO-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucad\Documents\GitHub\Gioco-C-\obj\Debug\net8.0-windows\GIOCO-C-.AssemblyInfoInputs.cache
+C:\Users\lucad\Documents\GitHub\Gioco-C-\obj\Debug\net8.0-windows\GIOCO-C-.AssemblyInfo.cs
+C:\Users\lucad\Documents\GitHub\Gioco-C-\obj\Debug\net8.0-windows\GIOCO-C-.csproj.CoreCompileInputs.cache
+C:\Users\lucad\Documents\GitHub\Gioco-C-\obj\Debug\net8.0-windows\GIOCO-C-.sourcelink.json
+C:\Users\lucad\Documents\GitHub\Gioco-C-\obj\Debug\net8.0-windows\GIOCO-C-.dll
+C:\Users\lucad\Documents\GitHub\Gioco-C-\obj\Debug\net8.0-windows\refint\GIOCO-C-.dll
+C:\Users\lucad\Documents\GitHub\Gioco-C-\obj\Debug\net8.0-windows\GIOCO-C-.pdb
+C:\Users\lucad\Documents\GitHub\Gioco-C-\obj\Debug\net8.0-windows\GIOCO-C-.genruntimeconfig.cache
+C:\Users\lucad\Documents\GitHub\Gioco-C-\obj\Debug\net8.0-windows\ref\GIOCO-C-.dll
