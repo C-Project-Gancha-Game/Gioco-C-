@@ -1,1 +1,1 @@
-suca
+Comando per runnare: dotnet run
